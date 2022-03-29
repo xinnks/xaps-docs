@@ -4,8 +4,8 @@ prev:
   text: Installation
   link: /guide/installation.html
 next:
-  text: Options
-  link: /guide/options.html
+  text: Props
+  link: /guide/props.html
 ---
 
 # Getting Started
